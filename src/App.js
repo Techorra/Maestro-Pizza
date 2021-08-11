@@ -26,6 +26,8 @@ function App() {
           </Route>
           <Route path="/offers">
             <NavbarOffers />
+            <NavbarOffers />
+
           </Route>
           <Route path="/contact">
             <NavbarContact />
