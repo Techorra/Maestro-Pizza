@@ -5,9 +5,9 @@ import Shop from "./MainPage/Shop";
 import Menu from "./MainPage/Menu";
 import Clients from "./MainPage/Clients";
 import Prices from "./MainPage/Prices";
-import Footer from "../footer";
+import Footer from "./MainPage/footer";
 
-function All(){
+function All() {
   return (
     <div>
       <Header />
@@ -15,10 +15,10 @@ function All(){
       <Shop />
       <Menu />
       <Clients />
-      <Prices />  
+      <Prices />
       <Footer />
     </div>
   );
-};
+}
 
 export default All;

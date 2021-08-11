@@ -7,7 +7,6 @@ import NavbarOffers from "./components/Routes/navbar-offers";
 import NavbarContact from "./components/Routes/navbar-contact";
 import NavbarOrder from "./components/Routes/navbar-order";
 import Nav from "./components/Nav";
-import Prices from "./components/MainPage/Prices";
 import { Route, Switch } from "react-router-dom";
 
 function App() {
