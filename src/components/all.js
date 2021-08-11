@@ -5,6 +5,7 @@ import Shop from "./MainPage/Shop";
 import Menu from "./MainPage/Menu";
 import Clients from "./MainPage/Clients";
 import Prices from "./MainPage/Prices";
+import Footer from "../footer";
 
 function All(){
   return (
@@ -15,6 +16,7 @@ function All(){
       <Menu />
       <Clients />
       <Prices />  
+      <Footer />
     </div>
   );
 };
