@@ -278,6 +278,22 @@ body {
   margin-top: 15px;
 }
 
+.footer {
+  text-align: left;
+  background-color: rgba(00, 00, 00, 0.8);
+  color: #fff;
+  padding: 20px;
+  font-size: 13px;
+}
+.footer .footer_items {
+  margin-left: 10%;
+}
+.footer .footer_logo {
+  width: 200px;
+  padding: 10px 20px;
+  margin: auto 70%;
+}
+
 @media (max-width: 700px) {
   .navbar__text {
     display: flex;
