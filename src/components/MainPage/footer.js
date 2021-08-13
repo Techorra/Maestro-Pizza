@@ -5,7 +5,7 @@ function footer() {
     <>
       <div className="footer">
         <p className="footer_text">
-          ©2020 MAESTRO PIZZINI | ALL RIGHTS RESERVED.
+          ©2021 MAESTRO PIZZINI | ALL RIGHTS RESERVED.
         </p>
       </div>
     </>
