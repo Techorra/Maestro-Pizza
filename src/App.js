@@ -6,6 +6,7 @@ import NavbarDeals from "./components/Routes/navbar-deals";
 import NavbarOffers from "./components/Routes/navbar-offers";
 import NavbarContact from "./components/Routes/navbar-contact";
 import NavbarOrder from "./components/Routes/navbar-order";
+import NavbarAbout from "./components/Routes/navbar-about";
 import Nav from "./components/Nav";
 import { Route, Switch } from "react-router-dom";
 
@@ -31,6 +32,9 @@ function App() {
           </Route>
           <Route path="/order">
             <NavbarOrder />
+          </Route>
+          <Route path="/about">
+            <NavbarAbout />
           </Route>
         </Switch>
       </Nav>

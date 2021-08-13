@@ -9,7 +9,7 @@ const Shop = () => {
           <div>
             <h1>Free Delivery With PIZZA OF THE DAY Only 8.99 USD</h1>
             <div className="shop__btn">
-              <Link to="/shop" className="btn btn-smart">
+              <Link to="/menu" className="btn btn-smart">
                 SHOP NOW
               </Link>
             </div>
