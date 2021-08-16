@@ -7,7 +7,9 @@ const Shop = () => {
       <div className="container">
         <div className="shop__text">
           <div>
-            <h1>Free Delivery With PIZZA OF THE DAY Only 8.99 USD</h1>
+            <h1>
+              Free Delivery With <br /> PIZZA OF THE DAY Only <br /> 8.99 USD
+            </h1>
             <div className="shop__btn">
               <Link to="/menu" className="btn btn-smart">
                 SHOP NOW

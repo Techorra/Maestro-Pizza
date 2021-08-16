@@ -193,28 +193,28 @@ body {
 .shop {
   width: 100%;
   background: url("bg.jpg");
-  height: 450px;
+  height: 400px;
   background-attachment: fixed;
   text-align: center;
 }
 .shop__text {
-  height: 450px;
+  height: 400px;
   display: flex;
   align-items: center;
-  width: 400px;
+  width: 700px;
   justify-content: center;
   margin: 0 auto;
   color: #fff;
 }
 .shop__text h1 {
   font-size: 40px;
-  line-height: 60px;
-  font-weight: 600;
+  line-height: 80px;
+  font-weight: 500;
   font-style: normal;
-  letter-spacing: 0.5px;
+  letter-spacing: 1px;
 }
 .shop__btn {
-  margin-top: 35px;
+  margin-top: 30px;
 }
 
 .clients {
