@@ -1,12 +1,11 @@
-import React from 'react'
-
+import React from "react";
 
 function NavbarContact() {
-    return (
-        <div>
-            <h1>Contact Us</h1>
-        </div>
-    )
+  return (
+    <div className="Routes-text">
+      <h1>Contact Us</h1>
+    </div>
+  );
 }
 
-export default NavbarContact
+export default NavbarContact;

@@ -12,7 +12,7 @@ const About = () => {
             <p>
               Investigationes demonstraverunt lectores legere me lius quod ii
               legunt saepius. Claritas est etiam processus dynaus, quise
-              sequitur mutationem consuetudium lectorum.
+              sequitur mutationem consuetudium.
             </p>
             <div className="about__btn">
               <Link to="/about" className="btn btn-smart">

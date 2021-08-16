@@ -229,13 +229,16 @@ body {
 
 .client {
   text-align: center;
+  font-size: 15px;
 }
 .client h1 {
-  font-style: 45px;
+  font-style: 50px;
   transition: 0.5s;
 }
-.client :hover {
-  color: red;
+
+.client h1:hover {
+  color: orangered;
+  font-size: 35px;
   transition: 0.5s;
 }
 .client p {
@@ -265,6 +268,11 @@ body {
 .price__heading {
   margin-top: 20px;
   font-size: 25px;
+  transition: 0.5s;
+}
+.price__heading:hover {
+  color: orangered;
+  transition: 0.5;
 }
 .price__text {
   margin-top: 15px;
@@ -288,6 +296,15 @@ body {
   margin: auto 50px;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande";
   font-size: medium;
+}
+.Routes-text {
+  text-align: center;
+  margin-top: 200px;
+  transition: 0.5s;
+}
+.Routes-text:hover {
+  color: orangered;
+  transition: 0.5;
 }
 
 @media (max-width: 700px) {

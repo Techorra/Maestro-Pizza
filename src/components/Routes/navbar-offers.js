@@ -1,12 +1,11 @@
-import React from 'react'
-
+import React from "react";
 
 function NavbarOffers() {
-    return (
-        <div>
-           <h1>Our Offers</h1>
-        </div>
-    )
+  return (
+    <div className="Routes-text">
+      <h1>Our Offers</h1>
+    </div>
+  );
 }
 
-export default NavbarOffers
+export default NavbarOffers;

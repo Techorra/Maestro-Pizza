@@ -2,7 +2,7 @@ import React from "react";
 
 function NavbarAbout() {
   return (
-    <div>
+    <div className="Routes-text">
       <h1>About Us</h1>
     </div>
   );

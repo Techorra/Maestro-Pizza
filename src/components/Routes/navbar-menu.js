@@ -2,7 +2,7 @@ import React from "react";
 
 function NavbarMenu() {
   return (
-    <div className="Menu">
+    <div className="Routes-text">
       <h1>Our Menu</h1>
     </div>
   );
