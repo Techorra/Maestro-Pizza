@@ -240,6 +240,7 @@ body {
   color: orangered;
   font-size: 35px;
   transition: 0.5s;
+  cursor: default;
 }
 .client p {
   font-style: 18px;
@@ -272,6 +273,7 @@ body {
 }
 .price__heading:hover {
   color: orangered;
+  cursor: default;
   transition: 0.5;
 }
 .price__text {
